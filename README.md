@@ -1,2 +1,2 @@
 # dao
-inswap dao community
+metabase dao community
